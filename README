@@ -1,0 +1,16 @@
+GuLag.
+======
+
+A little library to abstract away OpenGL, written
+in a relatively pragmatic subset of C++.
+
+To build on linux: (from project root)
+
+    mkdir build
+    cd build
+    cmake ..
+    make
+
+To build on windows:
+
+    Somehow get cmake to generate a visual studio project
